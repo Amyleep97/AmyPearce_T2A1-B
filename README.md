@@ -2,7 +2,9 @@
 
 ## Q1 -	Identify and explain the workings of TWO sorting algorithms and discuss and compare their performance/efficiency (i.e. Big O)	Minimum 300 words
 
-- Quick Sort Algorithm is a process that takes the main chunk of data and breaks it down into small groups to help problem solve the code, a part of this alogorithm process is to use the Divide and Conquer Technique. This technique puts the small groups back into one group to find the reasoning behind the original problem. The main focus of Quick Sort Algorithm is a partition, its job is to grab any element and rotate it into its correct place it is an essential process of sorting the array. To be able to use the Quick Sort Algorithm you need to use the array of elements which are numbers written in code inside of brackets, for example ```  {2, 5, 1, 6, 4, 3} ``` sorted elements should be in order and look like this  ``` {1, 2, 3, 4, 5, 6} ``` The efficiency of using this sorting Algorithm is exsactly as it sounds, it's quick! and is also the quickest was of sorting an algorithm. The downside 
+- Quick Sort is a type of sorting algorithm process that uses a technique called the Divide and Conquer Technique, it is a technique that helps put the small groups of an array back into one group to find the reasoning behind the original problem. The main focus of the Quick Sort Algorithm is a partition it grabs any element from the array and rotates it into its correct place, this an essential process of sorting the array. To be able to use the Quick Sort Algorithm you need to use the array of elements which are numbers written in code inside of the brackets, for example ```  {2, 5, 1, 6, 4, 3} ``` sorted elements in a array will be in order and look like this example:  ``` {1, 2, 3, 4, 5, 6} ``` The efficiency of using this sorting Algorithm is exsactly as it sounds, it's the quickest way of sorting an algorithm. It is also known to be one of best sorting algorithms for it's ability to sort long lists along with not needing you to use any extra storage. The downside to Quick sort is the elements in a list may already be sorted this is when bubble sort is better off being used but only when the list isn't too long. 
+
+- Bubble Sort is the easiest sorting algorithm to understand, compared to the Quick sort algorithm it is simple but not ideal for big chunks of data due to its time management. Bubble sort algorithm works by traveling from the left and compares the elements it will then place the highest digit to the right. 
 
 https://www.geeksforgeeks.org/quick-sort-algorithm/
 
@@ -11,5 +13,7 @@ https://www.britannica.com/technology/sorting-algorithm
 https://www.simplilearn.com/tutorials/data-structure-tutorial/quick-sort-algorithm
 
 https://www.geeksforgeeks.org/sorting-in-array/
+
+https://www.geeksforgeeks.org/bubble-sort-algorithm/
 
 ## Q2 -	Identify and explain the workings of TWO search algorithms and discuss and compare their performance/efficiency (i.e. Big O)	Minimum 300 words
